@@ -1,0 +1,15 @@
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\HopeThisWorks.exe
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\HopeThisWorks.deps.json
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\HopeThisWorks.runtimeconfig.json
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\HopeThisWorks.dll
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\ref\HopeThisWorks.dll
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\bin\Debug\net6.0\HopeThisWorks.pdb
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.csproj.AssemblyReference.cache
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.AssemblyInfoInputs.cache
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.AssemblyInfo.cs
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.csproj.CoreCompileInputs.cache
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.dll
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\ref\HopeThisWorks.dll
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.pdb
+D:\Ete cuccok\Official Stuff\Projects\HopeThisWorks\obj\Debug\net6.0\HopeThisWorks.genruntimeconfig.cache
